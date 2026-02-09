@@ -1,8 +1,8 @@
 # DevSwitch
 
-DevSwitch is a command-line interface (CLI) tool designed to simplify the process of running multiple development projects. It allows developers to start Laravel backend servers and Vue or React frontend servers using a single command.
+DevSwitch is a command-line interface (CLI) launcher designed to simplify starting multiple development projects. It enables developers to run Laravel backend servers and Vue or React frontend servers with a single command.
 
-This tool is intended for developers who frequently work with multiple projects and want a consistent, efficient workflow without repeatedly opening multiple terminals.
+This tool is intended for developers who work with multiple projects and need a consistent, efficient workflow without repeatedly opening multiple terminals.
 
 ---
 
